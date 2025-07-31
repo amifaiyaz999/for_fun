@@ -1,0 +1,84 @@
+body{
+    background-color: rgb(171, 162, 162);
+}
+h1{
+    color: #fa7f1a;
+    font-family: monospace;
+    font-size: 45px;
+    text-shadow: 4px 5px 5px black;
+    padding: 0px;
+    margin: 0px;
+}
+.para1{
+    font-size: 40px;
+    text-shadow: 1px 1px 2px rgb(109, 6, 6);
+    text-align: center;
+}
+
+.btn1 a {
+    color: rgb(0, 0, 0);
+    font-weight: bold;
+    font-size: 20px;
+  
+    text-decoration: none;
+}
+
+.btn1{
+    background-color: rgb(34, 79, 226);
+    border-radius:12px ;  
+}
+.btn1 a:hover{
+    color: #fa7f1a;
+    transform: scale(1.3);
+    transition: 1s;
+}
+
+.btn2 a{
+    color: rgb(0, 0, 0);
+    font-weight: bold;
+    font-size: 20px;
+    text-decoration: none;
+    
+    
+   
+
+}
+
+.btn2 a:hover{
+    color: #fa7f1a;
+    transform: scale(1.3);
+    transition: 1s;
+}
+
+.btn2{
+    background-color:rgb(34, 79, 226) ;
+    float: right;
+ border-radius:12px ;   
+    
+}
+
+.pic1{
+    float: right;
+     border: 5px solid;
+}
+.moai{
+    float:left;
+    border: 5px solid;
+}
+
+.bd1 a{
+    float: left;
+    text-decoration: none;
+    color: rgb(78, 76, 76);
+    background-color: black;
+
+}
+
+
+
+.bd1 a:hover{
+    color: orangered;
+    transition: 1s;
+    transform: scale(1.3);
+}
+
